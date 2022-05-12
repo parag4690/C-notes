@@ -1,0 +1,9 @@
+a 8
+a 9
+a 8
+c 8
+d 9
+parag 100
+sharma 100
+txt 47
+txt 94
