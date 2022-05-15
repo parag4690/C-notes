@@ -3,6 +3,7 @@ using namespace std;
 int main(){
    int sum=0,n,s,p,i;
    int a[11] ={0}; // mtlb sare zero
+   
  /*  for( i=0; i<11; i++ ){
        a[i]=0;
    }*/
